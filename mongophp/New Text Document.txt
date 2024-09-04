@@ -1,0 +1,3 @@
+composer require "mongodb/mongodb=^1.0.0"
+
+https://www.youtube.com/watch?v=6mCgckvPScI&list=PLC3y8-rFHvwiXX1maB5o-CZAIHy4I_ILv&index=3
